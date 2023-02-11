@@ -1,0 +1,15 @@
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\bin\Debug\net6.0\task2.exe
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\bin\Debug\net6.0\task2.deps.json
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\bin\Debug\net6.0\task2.dll
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\bin\Debug\net6.0\task2.pdb
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.dll
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\refint\task2.dll
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.pdb
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+D:\Папки\музыка\Tehno\учёба\C#\webinar9\task2\obj\Debug\net6.0\ref\task2.dll
